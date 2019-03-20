@@ -101,7 +101,7 @@ func init() {
 Also see Configuration below.
 
 ## Godoc
-[http://godoc.org/github.com/rockpoollabs/env](http://godoc.org/github.com/rockpoollabs/env)
+[https://godoc.org/github.com/davecheney/env](https://godoc.org/github.com/davecheney/env)
 
 ## Configuration
 
